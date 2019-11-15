@@ -1,0 +1,14 @@
+node_modules/
+bundle.js
+npm-debug.log
+docs/
+
+/.idea
+/public
+
+.env
+.passport.js
+.DS_Store
+
+build/
+dist/
